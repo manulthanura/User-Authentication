@@ -6,9 +6,9 @@ You can build your own authentication functionality with web tokens like JSON We
 #Goal
 This tutorial helps you:
 
-understand the differences between the Admin role and the Basic user role;
-use JWT to authenticate users; and
-learn role-based authentication using JWT in a simple Node.js app.
+- understand the differences between the Admin role and the Basic user role;
+- use JWT to authenticate users;
+- learn role-based authentication using JWT in a simple Node.js app.
 
 #Prerequisites
 You have installed the following:
