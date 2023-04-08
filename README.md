@@ -13,7 +13,7 @@ This tutorial helps you:
 # Prerequisites
 You have installed the following:
 
-- Node
+- Node JS
 - MongoDB
 - a Text Editor (VS Code, Atom, Sublime, etc.)
 
@@ -21,4 +21,4 @@ You already understand JavaScript E56 Syntax.
 
 **Love This? Give my repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/User-Authentication) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/User-Authentication?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/User-Authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/User-Authentication)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/User-Authentication?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/User-Authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/User-Authentication)
