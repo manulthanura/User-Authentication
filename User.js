@@ -1,4 +1,4 @@
-// user.js
+
 const Mongoose = require("mongoose")
 const UserSchema = new Mongoose.Schema({
   username: {
@@ -17,3 +17,6 @@ const UserSchema = new Mongoose.Schema({
     required: true,
   },
 })
+
+const User = Mongoose.model("user", UserSchema)
+module.exports = User
